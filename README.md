@@ -3,8 +3,11 @@
 CyberNexus is a console-based chatbot written in **C** that answers questions about three areas of cybersecurity: **Networking**, **Linux Commands** and **Cyber Threats**. Its knowledge base is a JSON dataset of 600 terms (200 per category), each with a definition and a real-world example. A Node.js server and a browser-based terminal-style GUI are also included on top of the same C program.
 
 **Course:** CL1002 Programming Fundamentals (Lab), FAST-NUCES Karachi
+
 **Submitted by:** Yasir (26K-2048), Bilal (26K-2049)
+
 **Submitted to:** Miss Hijaab Sikander
+
 
 ---
 
